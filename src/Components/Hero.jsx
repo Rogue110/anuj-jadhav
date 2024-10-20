@@ -10,7 +10,7 @@ const Hero = () => {
                 Anuj <br /> Jadhav
             </h1>
             <div className="mt-8">
-                <a href="/public/anuj-jadhav.pdf" target="_blank" rel="noopener noreferrer"
+                <a href="/anuj-jadhav.pdf" target="_blank" rel="noopener noreferrer"
                 download
                 className="flex items-center rounded-xl bg-lime-300 p-2 px-3 font-sans font-medium text-black hover:bg-lime-400">
                     <span>Resume.pdf</span>
